@@ -1,0 +1,15 @@
+
+
+		--------------------
+		|Car		   |
+		|------------------|
+		|setYearModel()    |
+		|setMake()         |
+		|setSpeed()        |
+	        |accelerate()      |
+	        |brake()           |
+		|------------------|
+		|getYearModel()    |
+		|getMake()         |
+		|getSpeed()        |
+		--------------------

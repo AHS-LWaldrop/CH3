@@ -1,0 +1,15 @@
+---------------------
+|PersonalInfo       |
+|-------------------|
+|setName()          |
+|setAge()           |
+|setAddressLetter() |
+|setAddressNumber() |
+|setNumber()        |
+|-------------------|
+|getName()          |
+|getAge()           |
+|getAddressLetter() |
+|getAddressNumber() |
+|getNumber()        |
+---------------------
