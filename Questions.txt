@@ -1,0 +1,40 @@
+Review
+
+1. A
+2. B
+3. D
+4. C
+5. B
+6. B
+7. A
+8. D
+10. A
+12. C
+14. True
+15. True
+16. False
+17. False
+
+FtE
+
+1. The constructor doesn't need "void."
+2. The return wouldn't return each number, it would add them.
+3. There is no initialization of any field.
+
+Short Answer
+
+1. A class is a blueprint that can be reused, but an instance is only specific data for a class.
+3. An accessor method is one that is able to accept an argument and store it to a field, while a mutator method
+is able to change the data.
+4. Yes, so the fields don't interact directly with the main method.
+5. The constructor has access.
+6. "New" creates a new object.
+9. Constructors allow fields to interact with the main method without altering either directly.
+10. A field is a data type set in a class, while an attribute is the data assigned to a field.
+11. A parameter is a variable inside of a method, while an argument is the data assigned.
+12. Java provides a default constructor when the user doesn't make one.
+
+Additional Questions
+
+24. C
+14. D
